@@ -1,0 +1,20 @@
+ul a.active{
+    color: #4623e9;
+}
+ul a.active .sidebar-icon{
+    color: #4623e9;
+}
+
+ul a.active li{
+    background-color: #f5f7f9;
+    border-radius: 14px;
+}
+button {
+    text-transform: capitalize !important;
+}
+.activeBtn {
+    color: rgb(0, 0, 0) !important;
+    background: white !important;
+    border:solid 2px #4623e9 !important;
+    border-radius: 15px;
+} 
