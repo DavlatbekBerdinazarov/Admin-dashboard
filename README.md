@@ -2,19 +2,12 @@
 
   React Animated Admin Dashboard And Login Page
 
-# Video tutorial
-
-[https://youtu.be/CWpTAzOz6mE](https://youtu.be/CWpTAzOz6mE)<br>
-
 # Resource
 
 [Create React App](https://create-react-app.dev/)<br>
 [Material UI](https://create-react-app.dev/)<br>
 [React Router](https://reactrouter.com/)<br>
 [React Chart JS](https://react-chartjs-2.js.org/)<br>
-[Images](https://www.freepik.com/)<br>
-[Images](https://free3dicon.com/)<br>
-
 # Preview
 
 !["React Animated Admin Dashboard And Login Page"](https://github.com/trananhtuat/react-animated-admin-dashboard/assets/67447840/dda7900a-a815-45b6-b9f6-98bea61ca936 "React Animated Admin Dashboard And Login Page")
